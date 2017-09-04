@@ -1,7 +1,7 @@
 {
     "name": "scene-order-form",
     "description": "简单的订单表单场景,与rax组件结合使用",
-    "version": "0.0.1",
+    "version": "0.0.8",
     "keyword": [
         "nuke",
         "mobile",
